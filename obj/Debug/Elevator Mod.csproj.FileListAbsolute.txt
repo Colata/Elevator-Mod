@@ -1,9 +1,9 @@
-F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator Mod\Elevator Mod\bin\Debug\Starter_Script.dll
-F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator Mod\Elevator Mod\bin\Debug\Starter_Script.pdb
-F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator Mod\Elevator Mod\bin\Debug\ScriptHookVDotNet.xml
-F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator Mod\Elevator Mod\obj\Debug\Elevator Mod.csprojResolveAssemblyReference.cache
-F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator Mod\Elevator Mod\obj\Debug\Elevator Mod.csproj.GenerateResource.Cache
-F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator Mod\Elevator Mod\obj\Debug\Starter_Script.dll
-F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator Mod\Elevator Mod\obj\Debug\Starter_Script.pdb
-F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator Mod\Elevator Mod\obj\Debug\Elevator_Mod.Properties.Resources.resources
-F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator Mod\Elevator Mod\bin\Debug\ScriptHookVDotNet.dll
+F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator-Mod\bin\Debug\Starter_Script.dll
+F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator-Mod\bin\Debug\Starter_Script.pdb
+F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator-Mod\obj\Debug\Elevator_Mod.Properties.Resources.resources
+F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator-Mod\obj\Debug\Elevator Mod.csproj.GenerateResource.Cache
+F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator-Mod\obj\Debug\Starter_Script.dll
+F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator-Mod\obj\Debug\Starter_Script.pdb
+F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator-Mod\bin\Debug\ScriptHookVDotNet.dll
+F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator-Mod\bin\Debug\ScriptHookVDotNet.xml
+F:\GTA 5 MODDING\Scripting\MY PROJECTS\Elevator-Mod\obj\Debug\Elevator Mod.csprojResolveAssemblyReference.cache
